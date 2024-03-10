@@ -1,4 +1,6 @@
 #!bin/bash
-echo "Kishore Chillagundla"
+echo "Kishore Chillagundla, practice DevOps"
 
-Date=(date)
+DATE=$(date)
+
+echo "Hello, this script is executed at timestamp: $DATE"
